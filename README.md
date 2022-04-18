@@ -1,6 +1,6 @@
-# placode
+# codeland
 
-A new Flutter project.
+web demo: https://utsavdutta.github.io/codeland/
 
 ## Getting Started
 
